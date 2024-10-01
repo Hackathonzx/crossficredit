@@ -1,6 +1,4 @@
-# CrossFicredit
-
-## [Live Preview](https://abuanwar072.github.io/Flutter-Responsive-Admin-Panel-or-Dashboard/#/)
+# Flutter Responsive Admin/Dashboard Template
 
 **Packages we are using:**
 
@@ -13,3 +11,6 @@
 - Poppins [link](https://fonts.google.com/specimen/Poppins)
 
 
+![Preview](/gif.gif)
+
+![App UI](/ui.png)
